@@ -9,7 +9,7 @@ const app = express();
 console.log("server started");
 
 const db_config = {
-  host: "us-iron-auto-dca-04-b.cleardb.net",
+  host: "us-iron-auto-dca-01-b-bh.cleardb.net",
   user: "b274c165001cb4",
   password: "ad1f9f41",
   database: "heroku_66d409414a572d7"
